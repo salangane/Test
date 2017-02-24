@@ -1,0 +1,3 @@
+Main(){
+	println("this is main method");
+}
