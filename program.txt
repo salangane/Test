@@ -1,3 +1,7 @@
 Main(){
 	println("this is main method");
 }
+
+method(){
+	print("this is method one");
+}
